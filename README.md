@@ -107,11 +107,11 @@
         .maincontent{
             width: 300px;
             height: 500px;
-            gap: 22px;
+            gap: 18px;
         }
 
         img{
-            width: 85px;
+            width: 80px;
             height: auto;
         }
 
@@ -129,7 +129,7 @@
         }
 
         .skillsets{
-            gap: 15px;
+            gap: 12px;
         }
 
         .skillsets p{
