@@ -8,7 +8,7 @@
 <body style="font-family: url('./assets/fonts/static/Inter-Bold.ttf');">
     <div class="maincontent">
         <div class="photo">
-            <img src="assets/images/avatar-jessica.jpeg" alt="Img Must Exist" >
+            <img src="avatar-jessica.jpeg" alt="Img Must Exist" >
         </div>
 
         <div class="main-intro">
