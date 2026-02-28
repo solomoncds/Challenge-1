@@ -106,7 +106,7 @@
         .maincontent{
             width: 300px;
             height: 550px;
-            gap: 10px;
+            gap: 8px;
         }
 
         img{
@@ -126,11 +126,11 @@
         }
 
         .main-bio{
-            font-size: 13px;
+            font-size: 14px;
         }
 
         .skillsets{
-            gap: 5px;
+            gap: 3px;
         }
 
         .skillsets p{
