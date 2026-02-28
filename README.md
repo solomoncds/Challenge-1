@@ -66,7 +66,7 @@
         color: #a8d63d;
         font-size: 14px;
         text-align: center;
-        padding: 10px;
+        padding: 3px;
     }
 
     .main-bio{
@@ -116,11 +116,13 @@
 
         .main-intro h1{
             font-size: 20px;
+            text-decoration: none;
         }
 
         .main-intro h2{
             font-size: 11px;
-            padding-bottom: 2px;
+            padding-bottom: 1px;
+            text-decoration: none;
         }
 
         .main-bio{
@@ -128,7 +130,7 @@
         }
 
         .skillsets{
-            gap: 6px;
+            gap: 5px;
         }
 
         .skillsets p{
