@@ -1,4 +1,4 @@
-# Challenge-1
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -134,8 +134,8 @@
 
         .skillsets p{
             font-size: 16px;
-            width: 300px;
-            height: 38px;
+            width: 250px;
+            height: 35px;
             padding: 2px;
         }
     }
