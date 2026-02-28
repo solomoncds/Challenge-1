@@ -78,7 +78,7 @@
     .skillsets{
         display: flex;
         flex-direction: column;
-        gap: 10px;
+        gap: 8px;
     }
 
     .skillsets p{
@@ -105,8 +105,8 @@
     @media(max-width: 480px){
         .maincontent{
             width: 300px;
-            height: 500px;
-            gap: 18px;
+            height: 600px;
+            gap: 14px;
         }
 
         img{
@@ -120,7 +120,7 @@
 
         .main-intro h2{
             font-size: 11px;
-            padding-bottom: 3px;
+            padding-bottom: 2px;
         }
 
         .main-bio{
@@ -128,11 +128,11 @@
         }
 
         .skillsets{
-            gap: 12px;
+            gap: 10px;
         }
 
         .skillsets p{
-            font-size: 16px;
+            font-size: 15px;
             width: 250px;
             height: 35px;
             padding: 2px;
