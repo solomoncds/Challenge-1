@@ -36,6 +36,8 @@
     html,body{width: 100vw;height: 100vh;overflow-x: hidden; background-color: #000; display: flex; justify-content: center; align-items: center; 
     }
 
+     h1,h2{ broder-bottom: none;
+
     .maincontent{
         display: flex;
         flex-direction: column;
