@@ -106,11 +106,11 @@
         .maincontent{
             width: 300px;
             height: 550px;
-            gap: 14px;
+            gap: 10px;
         }
 
         img{
-            width: 80px;
+            width: 75px;
             height: auto;
         }
 
@@ -124,11 +124,11 @@
         }
 
         .main-bio{
-            font-size: 15px;
+            font-size: 13px;
         }
 
         .skillsets{
-            gap: 12px;
+            gap: 6px;
         }
 
         .skillsets p{
