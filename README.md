@@ -32,7 +32,7 @@
 
  <style>
     
-    *{margin: 0;}
+    *{margin: 0; h1,h2,h3: margin: 0.5rem; border-bottom: none;}
     html,body{width: 100vw;height: 100vh;overflow-x: hidden; background-color: #000; display: flex; justify-content: center; align-items: center; 
     }
 
