@@ -39,13 +39,13 @@
     .maincontent{
         display: flex;
         flex-direction: column;
-        gap: 20px;
+        gap: 18px;
         align-items: center;
         margin-top: 30px;
         background-color: #1b1b1b;
         border-radius: 20px;
         width: 350px;
-        height: 500px;
+        height: 560px;
         padding: 20px;
         box-shadow: 2px 12px 13px  #411102;
     }
@@ -105,7 +105,7 @@
     @media(max-width: 480px){
         .maincontent{
             width: 300px;
-            height: 600px;
+            height: 550px;
             gap: 14px;
         }
 
@@ -128,7 +128,7 @@
         }
 
         .skillsets{
-            gap: 10px;
+            gap: 12px;
         }
 
         .skillsets p{
